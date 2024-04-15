@@ -1,0 +1,1 @@
+var json_buffer_icecreamparlorsbuffered_11 = {"type":"FeatureCollection","name":"buffer_icecreamparlorsbuffered_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
